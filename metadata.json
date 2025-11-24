@@ -1,0 +1,7 @@
+{
+  "name": "Copy of YingYu Talk - AI English Tutor",
+  "description": "A real-time voice interaction app for Chinese beginners to learn English using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
